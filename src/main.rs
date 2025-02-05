@@ -1,3 +1,3 @@
 fn main() {
-    println!(env!("CARGO_PKG_VERSION"));
+    println!("Hello, world!");
 }
