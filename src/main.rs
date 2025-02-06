@@ -1,6 +1,6 @@
 mod listener;
 use listener::Listener;
-use std::{io, thread};
+use std::{io};
 use std::thread::sleep;
 use std::time::Duration;
 
